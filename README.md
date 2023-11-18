@@ -2,7 +2,7 @@
 Repositorio para la clase de Deep Learning - Universidad de Antioquia
 
 # Integrantes
-Elizabeth Ospina Rojas
+Elizabeth Ospina Rojas -
 Sebastián López Gómez
 
 # Dataset disponible en:
